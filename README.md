@@ -7,7 +7,16 @@ Create virtual env
 ```
 python -m venv env
 ```
-Enter virtual env (Windows)
+Enter virtual env
 ```
+# For Windows
 source env/Scripts/activate
+
+@ For Linux
+source env/bin/activate
+```
+Add env var to python env
+edit env/bin/activate
+```
+export ENV_VAR=1
 ```
