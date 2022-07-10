@@ -20,3 +20,10 @@ edit env/bin/activate
 ```
 export ENV_VAR=1
 ```
+
+
+
+```
+git config --global user.name Palt0n
+git config --global user.email palton@live.com
+```
